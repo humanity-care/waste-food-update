@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.839d9893.chunk.css",
+    "main.js": "/static/js/main.ef4cfa5d.chunk.js",
+    "main.js.map": "/static/js/main.ef4cfa5d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.128272b0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.128272b0.js.map",
+    "static/css/2.5ff18db3.chunk.css": "/static/css/2.5ff18db3.chunk.css",
+    "static/js/2.1fb521af.chunk.js": "/static/js/2.1fb521af.chunk.js",
+    "static/js/2.1fb521af.chunk.js.map": "/static/js/2.1fb521af.chunk.js.map",
+    "static/js/3.a84aee14.chunk.js": "/static/js/3.a84aee14.chunk.js",
+    "static/js/3.a84aee14.chunk.js.map": "/static/js/3.a84aee14.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.5ff18db3.chunk.css.map": "/static/css/2.5ff18db3.chunk.css.map",
+    "static/css/main.839d9893.chunk.css.map": "/static/css/main.839d9893.chunk.css.map",
+    "static/js/2.1fb521af.chunk.js.LICENSE.txt": "/static/js/2.1fb521af.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/static/media/boxicons.cbd149c5.ttf",
+    "static/media/dastarkhan.365fbb6e.jpg": "/static/media/dastarkhan.365fbb6e.jpg",
+    "static/media/education.76192faa.jpg": "/static/media/education.76192faa.jpg",
+    "static/media/images.176f5b90.jpg": "/static/media/images.176f5b90.jpg",
+    "static/media/medical.656f779f.jpg": "/static/media/medical.656f779f.jpg",
+    "static/media/ration.538d784b.jpg": "/static/media/ration.538d784b.jpg",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/water.fc773ffd.jpg": "/static/media/water.fc773ffd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.128272b0.js",
+    "static/css/2.5ff18db3.chunk.css",
+    "static/js/2.1fb521af.chunk.js",
+    "static/css/main.839d9893.chunk.css",
+    "static/js/main.ef4cfa5d.chunk.js"
+  ]
+}
