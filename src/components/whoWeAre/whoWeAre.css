@@ -1,0 +1,28 @@
+.backgroundImg{
+    background: url(https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.card{
+    background-color: unset;
+}
+.donateFoodButton1, .donateFoodButton2{
+    width: 250px;
+    height: 50px;
+    border-radius: 5px;
+    border: 2px solid white ;
+    color: #0195d3 ;
+    font-size:20px;
+    font-weight:bold;
+    transition: 0.7s
+}
+.donateFoodButton1:hover, .donateFoodButton2:hover{
+
+    background-color: #0195d3 ;
+    color:white;
+    transition: 0.7s
+   
+ 
+}

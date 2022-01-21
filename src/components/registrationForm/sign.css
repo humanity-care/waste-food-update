@@ -1,0 +1,21 @@
+.visible{
+    bottom: 8px;
+    position: absolute;
+    right: 10px;
+    font-size: 20px;
+}
+
+.forgotPassword{
+    font-weight: 700;
+    color: red;
+}
+.forgotPassword:hover{
+    text-decoration: none;
+}
+.createAccount, .alreadyAccount{
+    text-decoration: underline;
+}
+.createAccount:hover, .alreadyAccount:hover{
+    text-decoration: none;
+}
+

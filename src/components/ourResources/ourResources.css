@@ -1,0 +1,13 @@
+.resourcesvalues{
+    height: 60px;
+    width: 60px;
+    margin: auto;
+    bottom: 46px;
+    position: relative;
+    border: 1px solid;
+    border-radius: 100%;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
